@@ -1,0 +1,43 @@
+body {
+    font-family: "Helvetica";
+}
+
+header {
+    background-color: turquoise;
+    padding: 1em;
+    margin-bottom: 2em;
+}
+
+header h1 {
+    margin: 0;
+}
+
+nav li {
+    display: inline-block;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav li a {
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    padding: 1em 2em;
+    margin: 0 1em;
+    width: 10em;
+    background-color: teal;
+    color: white;
+}
+
+ul li {
+    margin: 0.5em 0;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table td {
+    padding: 1em;
+}
